@@ -7653,12 +7653,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_SwimmerFemaleAbigail[] =
     {
         .iv = 0,
         .lvl = 35,
-        .species = SPECIES_PSYDUCK,
+        .species = SPECIES_HORSEA,
     },
     {
         .iv = 0,
         .lvl = 36,
-        .species = SPECIES_PSYDUCK,
+        .species = SPECIES_HORSEA,
     },
     {
         .iv = 0,
@@ -8245,7 +8245,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_YoungCoupleEveJon[] = {
     {
         .iv = 0,
         .lvl = 50,
-        .species = SPECIES_PSYDUCK,
+        .species = SPECIES_HORSEA,
     },
 };
 
