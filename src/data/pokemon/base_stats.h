@@ -1682,12 +1682,12 @@ const struct BaseStats gBaseStats[] =
     },
     [SPECIES_PSYDUCK] =
     {
-        .baseHP = 80,
-        .baseAttack = 82,
-        .baseDefense = 78,
+        .baseHP = 85,
+        .baseAttack = 80,
+        .baseDefense = 85,
         .baseSpeed = 95,
-        .baseSpAttack = 105,
-        .baseSpDefense = 80,
+        .baseSpAttack = 115,
+        .baseSpDefense = 90,
         .type1 = TYPE_WATER,
         .type2 = TYPE_PSYCHIC,
         .catchRate = 190,
